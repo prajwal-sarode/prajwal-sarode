@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
-
+<hr>
 
 - 👋 Hi, I’m @prajwal-sarode
 - 👀 I’m interested in Web Developement, Data Analysis.
@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate on Analyst Role.
 - 👀 I value simple content structure, clean design patterns, and thoughtful interactions..
 
-
+<hr>
 <div align="center">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
