@@ -1,5 +1,6 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 - 👋 Hi, I’m @prajwal-sarode
 - 👀 I’m interested in Web Developement, Data Analysis.
