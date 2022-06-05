@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="480" height="302"/>
 </div>
 
 - 👋 Hi, I’m @prajwal-sarode
@@ -8,3 +8,5 @@
 - 💞️ I’m looking to collaborate on Analyst Role.
 - 👀 I value simple content structure, clean design patterns, and thoughtful interactions..
 📫 Connect me through Linkedln https://www.linkedin.com/in/prajwalsarode/
+
+
