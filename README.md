@@ -8,7 +8,7 @@
  </div>
 <hr>
 
-- 👋 Hi, I’m @prajwal-sarode
+- 👋 Hi, I’m Prajwal Sarode
 - 👀 I’m interested in Web Developement, Data Analysis.
 - 🌱 I like to code things from scratch, and enjoy bringing ideas to life in the browser.
 - 💞️ I’m looking to collaborate on Analyst Role.
