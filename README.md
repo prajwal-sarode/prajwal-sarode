@@ -4,3 +4,7 @@
 - 💞️ I’m looking to collaborate on Analyst Role.
 - 👀 I value simple content structure, clean design patterns, and thoughtful interactions..
 📫 Connect me through Linkedln https://www.linkedin.com/in/prajwalsarode/
+
+
+ <img align="right" alt="Coding" width="400" src="add your link 
+  here">
