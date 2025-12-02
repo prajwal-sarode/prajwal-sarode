@@ -3,7 +3,7 @@
   <br/>
   <h1>Hi there, I'm Prajwal Sarode! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   
-  <h3>🚀 AI Engineer | Generative AI Enthusiast </h3>
+  <h3>🚀 AI Engineer | Generative AI Specialist | Cloud Architect</h3>
 
   <a href="https://www.linkedin.com/in/prajwalsarode/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,37 +17,45 @@
 
 ### 🧠 About Me
 
-I am a passionate developer transitioning into the world of **Artificial Intelligence** and **Large Language Models (LLMs)**. My focus is on building intelligent agents, optimizing RAG pipelines, and bringing data to life.
+I am a developer transitioning into **AI Engineering**, focusing on building scalable **LLM applications** and **Cloud-Native AI solutions**. I specialize in creating intelligent agents, optimizing RAG pipelines, and deploying models on AWS/GCP.
 
-- 🔭 I’m currently working on **Generative AI applications using LangChain & OpenAI.**
-- 🌱 I’m currently learning **Fine-tuning LLMs, Vector Databases, and Advanced NLP.**
-- 👯 I’m looking to collaborate on **Open Source AI/ML projects.**
-- 💬 Ask me about **Python, Data Analysis, and Prompt Engineering.**
-- ⚡ Fun fact: **I believe the best code is self-documenting, but I write docs anyway.**
+- 🔭 I’m currently working on **Multi-Agent Systems & RAG Pipelines.**
+- 🌱 I’m currently learning **Kubernetes (K8s) for ML Orchestration.**
+- 👯 I’m looking to collaborate on **Open Source Generative AI projects.**
+- 💬 Ask me about **LangChain, Vector Databases, and Cloud Deployment.**
+- ⚡ Fun fact: **I treat my prompts like code—version controlled and unit tested.**
 
 <hr>
 
-### 🛠️ The AI & Tech Stack
+### 🛠️ The Tech Stack
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-**AI, ML & Data Science**
-<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-**Generative AI & Tools**
+**Generative AI & LLMs**
 <br>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-111111?style=for-the-badge&logo=llamaindex&logoColor=white" />
+
+**Cloud & MLOps**
+<br>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+**AI Frameworks & Data**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+**Languages & Backend**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 <hr>
 
